@@ -1,0 +1,12 @@
+.userpart {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.subuserpart {
+    display: flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+    align-items:start;
+    font-size: x-large;
+}
